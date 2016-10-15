@@ -12,7 +12,7 @@ url: https://aiiv.github.io
 paginate: 20
 
 # Markdown Processors
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions:
     - hard_wrap
